@@ -22,9 +22,9 @@ tags:Visual Studio,debug, developers
 
 #category:
 
-homepage:https://github.com/lmotta/debug_vs_plugin/wiki
-tracker:https://github.com/lmotta/debug_vs_plugin/issues
-repository:https://github.com/lmotta/debug_vs_plugin
+homepage:https://github.com/pers-ephone/debug_vs_2_plugin/wiki
+tracker:https://github.com/pers-ephone/debug_vs_2_plugin/issues
+repository:https://github.com/pers-ephone/debug_vs_2_plugin
 
 changelog:
      - 2.0 (2025-07-02)
