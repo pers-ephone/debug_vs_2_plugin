@@ -1,15 +1,17 @@
 # Debug Visual Studio Code
 
 Plugin to Enable Debug for Visual Studio Code.
-For use need install the debugpy's module(pip3 install debugpy).
-** The icon is owned by Microsoft.
+To use this plugin, you need to install the debugpy's module (pip3 install debugpy) in your QGIS python environment.
+*The icon is owned by Microsoft.*
 
 ## Author
 Luiz Motta
 
 ## Changelog
+- 2025-07-02
+Fixed debugpy configuration
 - 2023-08-05
-Update to use 'debugpy' instead of 'ptvsd' (which is now depreced)
+Update to use 'debugpy' instead of 'ptvsd' (which is now deprecated)
 - 2021-03-05
 Fixed use the global variable in script
 - 2021-02-27
@@ -23,5 +25,4 @@ Update metadata
 - 2018-10-29
 Update metadata and icon
 - 2018-10-18
- Initial plugin
-
+Initial plugin
